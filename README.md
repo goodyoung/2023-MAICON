@@ -140,7 +140,7 @@ class CustomModel(nn.Module):
 |이름|깃허브|
 |:---:|:---:|
 |박시형|[Github Link](https://github.com/sihyeong671)|
-|홍성래|[Github Link]()|
+|홍성래|[Github Link](https://github.com/HongSungRae)|
 |이준석|[Github Link](https://github.com/jjunstone7)|
 |고건영|[Github Link](https://github.com/goodyoung)|
 
